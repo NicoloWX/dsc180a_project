@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "nclw1118/dsc180a_project:latest",
+    "build-script": "python run.py"
+}
